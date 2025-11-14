@@ -7,7 +7,7 @@ Zakaria Said Dahir
 Machine Learning  
 
 📅 **Joined Date**  
-18 October 2025  
+17 October 2025  
 
 📂 **Final Project (Week 4)**  
 
